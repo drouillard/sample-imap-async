@@ -1,7 +1,7 @@
 ## Sample Node.js Application Using IMAP and Async 
 
 This sample application demonstrates how to use the example from the imap documentation, but has a couple changes that make it
-easier for beginners. 
+easier for beginners. This app uses connecting to Gmail as an example.
 
 ## Requirements ##
 
@@ -22,7 +22,7 @@ npm install async
 * Additional Console Outputs
 * Uses async module to clarify the steps for calling functions in series. 
 
-Update imap-async.js with your username and password and then run the app.
+Update imap-async.js with your Gmail username and password and then run the app.
 
 ```
 $ node imap-async.js
